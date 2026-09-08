@@ -2,5 +2,4 @@
 ## Last Updated
 September 2026
 
-Here is the screenshot
-![](/Users/shiwei/Desktop/大四上/comp3111/lab1.png)
+![Screenshot for lab1](images/lab1.png)
