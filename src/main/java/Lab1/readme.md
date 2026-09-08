@@ -2,4 +2,4 @@
 ## Last Updated
 September 2026
 
-![Screenshot for lab1](images/lab1.png)
+![Screenshot for lab1](../images/lab1.png)
